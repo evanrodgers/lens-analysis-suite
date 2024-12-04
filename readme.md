@@ -26,7 +26,7 @@ In the images above you can see that I am using a right-angle checkerboard patte
 
 I printed the checkerboard pattern onto glossy photopaper that comes with adhesive backing (very cheap and source-able on Amazon).
 
-I then stuck those to a piece of foam poster board and propped it up using a 3D prited stand, but it would be more ideal to mount your test pattern to a wall, and mount your camera on secure tripod. The most essential thing is to have the camera sensor perfectly parallel to the test pattern.
+I then stuck those to a piece of foam poster board and propped it up using a 3D printed stand, but it would be more ideal to mount your test pattern to a wall, and mount your camera on a sturdy tripod. Axial misalignment will impact the sharpness scores, so try to align your sensor to be as parallel to the test pattern board as possible.
 
 I snagged the checkerboard pattern from here: https://www.freepik.com/free-vector/right-triangle-pattern-background_158726687.htm
 
@@ -36,9 +36,9 @@ Why a right-angle checkerboard? It's the most compatible with all three analysis
 
 ## Other notes
 
-Be sure to shoot your test samples as the lowest ISO possible. This becomes tricky at higher F-stops, so I recommend lowering the shutter speed for every f-stop so that the ISO remains between 100 and 200. I would also recommend setting up 2s delay in your camera's Drive Mode, or using a remote shutter, when you're testing at longer shutter speeds.
+Be sure to shoot your test samples as the lowest ISO possible, as the Laplacian Variance test is sensitive to noise. In practice, this becomes tricky at higher F-stops, so I recommend lowering the shutter speed for every f-stop so that the ISO remains between 100 and 200. I would also recommend setting up a 2s delay in your camera's Drive Mode, or using a remote shutter, when you're testing at longer shutter speeds.
 
-This is why I recommend a sturdy tripod especially if you're testing several lenses and constantly changing the shutter speed. Still, this application is still very useful without perfect test samples.
+This is why a sturdy tripod is essential if you're testing several lenses and repeatedly changing the shutter speed. Still, this application will still produce useful results without perfect test images.
 
 ## Features
 
