@@ -51,3 +51,4 @@ lens_analysis.log
 # OS specific
 .DS_Store
 Thumbs.db
+/.venv/
