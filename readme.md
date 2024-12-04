@@ -36,7 +36,7 @@ Why a right-angle checkerboard? It's the most compatible with all three analysis
 
 ## Other notes
 
-Be sure to shoot your test samples as the lowest ISO possible, as the Laplacian Variance test is sensitive to noise. In practice, this becomes tricky at higher F-stops, so I recommend lowering the shutter speed for every f-stop so that the ISO remains between 100 and 200. I would also recommend setting up a 2s delay in your camera's Drive Mode, or using a remote shutter, when you're testing at longer shutter speeds.
+Be sure to shoot your test samples at the lowest ISO possible, as the Laplacian Variance test is sensitive to noise. In practice, this becomes tricky at higher F-stops, so I recommend lowering the shutter speed for every f-stop so that the ISO remains between 100 and 200. I would also recommend setting up a 2s delay in your camera's Drive Mode, or using a remote shutter, when you're testing at longer shutter speeds.
 
 This is why a sturdy tripod is essential if you're testing several lenses and repeatedly changing the shutter speed. Still, this application will still produce useful results without perfect test images.
 
