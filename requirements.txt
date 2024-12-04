@@ -1,0 +1,29 @@
+# Core image processing libraries
+opencv-python>=4.8.0    # Computer vision and image processing
+numpy>=1.24.0          # Numerical operations and array manipulation
+pillow>=10.0.0         # Basic image operations
+
+# Scientific computing and data analysis
+scipy>=1.11.0          # Advanced mathematical operations
+pandas>=2.1.0          # Data manipulation and analysis
+
+# Visualization
+matplotlib>=3.7.0      # Basic plotting and figure generation
+seaborn>=0.12.0        # Enhanced statistical visualization
+   
+# Utility libraries
+python-dateutil>=2.8.2  # Date and time utilities
+tqdm>=4.66.0           # Progress bar functionality
+
+# Type checking and data validation
+typing-extensions>=4.7.0  # Enhanced type hinting support
+dataclasses>=0.6        # Data class decorators for Python 3.8+
+
+# Development and testing dependencies
+pytest>=7.4.0          # Unit testing framework
+pylint>=2.17.0         # Code linting
+black>=23.7.0          # Code formatting
+mypy>=1.5.0            # Static type checking
+
+# Version numbers are set as minimum requirements to ensure compatibility
+# while allowing for newer versions that include security updates
