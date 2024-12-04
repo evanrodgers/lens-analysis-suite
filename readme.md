@@ -24,11 +24,21 @@ filename: contax_25mm_f28_overview_{timestamp}.jpg
 
 In the images above you can see that I am using a right-angle checkerboard pattern.
 
-I printed the checkerboard pattern onto glossy photopaper that comes with adhesive backing.
-I stuck them to a piece of foam poster board and 3D printed a stand (which you can see in the sample images).
+I printed the checkerboard pattern onto glossy photopaper that comes with adhesive backing (very cheap and source-able on Amazon).
 
-I can't find the source of the checkerboard pattern, but I will recreate it and upload it.
+I then stuck those to a piece of foam poster board and propped it up using a 3D prited stand, but it would be more ideal to mount your test pattern to a wall, and mount your camera on secure tripod. The most essential thing is to have the camera sensor perfectly parallel to the test pattern.
+
+I snagged the checkerboard pattern from here: https://www.freepik.com/free-vector/right-triangle-pattern-background_158726687.htm
+
+You could also recreate it easily in Photoshop by creating a custom pattern, then using Edit > Fill > Pattern.
+
 Why a right-angle checkerboard? It's the most compatible with all three analysis methods.
+
+## Other notes
+
+Be sure to shoot your test samples as the lowest ISO possible. This becomes tricky at higher F-stops, so I recommend lowering the shutter speed for every f-stop so that the ISO remains between 100 and 200. I would also recommend setting up 2s delay in your camera's Drive Mode, or using a remote shutter, when you're testing at longer shutter speeds.
+
+This is why I recommend a sturdy tripod especially if you're testing several lenses and constantly changing the shutter speed. Still, this application is still very useful without perfect test samples.
 
 ## Features
 
