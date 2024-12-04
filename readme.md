@@ -2,6 +2,34 @@
 
 A Python-based tool for quantitative analysis of lens sharpness characteristics across the image frame. This application helps photographers, reviewers, and manufacturers evaluate lens performance through automated analysis of test chart images.
 
+### Sharpness heatmap
+
+filename: contax_25mm_f28_laplacian_heatmap.png
+
+![Alt text](/docs/contax_25mm_f28_laplacian_heatmap.png)
+
+### Original test image
+
+filename: contax_25mm_f28.jpg
+
+![Alt text](/docs/contax_25mm_f28_cropped.jpg)
+
+### Original test image with Laplacian scores overlaid
+
+filename: contax_25mm_f28_overview_{timestamp}.jpg
+
+![Alt text](/docs/contax_25mm_f28_overview_20241204151729.jpg)
+
+## Creating the physical test poster
+
+In the images above you can see that I am using a right-angle checkerboard pattern.
+
+I printed the checkerboard pattern onto glossy photopaper that comes with adhesive backing.
+I stuck them to a piece of foam poster board and 3D printed a stand (which you can see in the sample images).
+
+I can't find the source of the checkerboard pattern, but I will recreate it and upload it.
+Why a right-angle checkerboard? It's the most compatible with all three analysis methods.
+
 ## Features
 
 ### Analysis Methods
@@ -40,8 +68,8 @@ A Python-based tool for quantitative analysis of lens sharpness characteristics 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/lens-analysis.git
-cd lens-analysis
+git clone https://github.com/evanrodgers/lens-analysis-suite.git
+cd lens-analysis-suite
 ```
 
 2. Create and activate a virtual environment:
@@ -117,15 +145,9 @@ The application creates three main directories:
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). See the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit pull requests, report issues, and contribute to the project.
-
 ## Support
 
 - Create an issue in the GitHub repository
-- Email: support@example.com
-- Documentation: [Wiki](https://github.com/yourusername/lens-analysis/wiki)
 
 ## Acknowledgments
 
@@ -144,6 +166,7 @@ This project uses the following open-source libraries:
 If you use this software in your research, please cite it as:
 ```
 Lens Analysis Suite
+Evan Rodgers
 Copyright (c) 2024
 Licensed under CC BY-NC 4.0
 https://creativecommons.org/licenses/by-nc/4.0/
